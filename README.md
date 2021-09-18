@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrAJ29
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Mobile Application Development
 - 📫 How to reach me mail me on: jogaleatul@gmail.com
 
