@@ -35,7 +35,7 @@ I am a passionate web developer with expertise in HTML, CSS, JavaScript, SQL, Ja
 ## Contact
 
 - Email: jogaleatul@gmail.com
-- LinkedIn: [Include a link to your LinkedIn profile]
+- LinkedIn: https://www.linkedin.com/in/atul-jogale/
 - Portfolio: [If you have a personal website or portfolio, include the URL]
 
 Feel free to explore my repositories to find more projects and code samples.
