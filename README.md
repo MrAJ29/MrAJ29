@@ -1,4 +1,4 @@
-- 👋 Hi, I am Atul Jogale.
+<code>👋 Hi, I am Atul Jogale.</code>
 
 # Welcome to My GitHub Profile!
 
