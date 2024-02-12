@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a passionate web developer with expertise in HTML, CSS, JavaScript, SQL, Java, Python, React.js, and Node.js. I enjoy building interactive and user-friendly web applications that provide seamless experiences to users. With a strong foundation in web development fundamentals and a focus on clean code and efficient problem-solving, I strive to deliver high-quality projects that meet client requirements.
+I am a passionate web developer with expertise in HTML, CSS, JavaScript and SQL. I enjoy building interactive and user-friendly web applications that provide seamless experiences to users. With a strong foundation in web development fundamentals and a focus on clean code and efficient problem-solving, I strive to deliver high-quality projects that meet client requirements.
 
 ## Projects
 
